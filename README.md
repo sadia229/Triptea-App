@@ -1,16 +1,14 @@
-# triptea
+# Triptea
 
 A new Flutter project.
 
-## Getting Started
+![Untitled design (5)](https://user-images.githubusercontent.com/108749310/193445804-02853978-96c5-40b8-bfa4-f8983b916e02.jpg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## UI
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Untitled design (2)](https://user-images.githubusercontent.com/108749310/193445836-5a53855b-3934-4d53-b21a-98ccc762c2a5.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Untitled design (4)](https://user-images.githubusercontent.com/108749310/193445838-fc9fa339-dad5-41ae-a197-7d23ae057516.jpg)
+
+![Untitled design (3)](https://user-images.githubusercontent.com/108749310/193445840-8b6c4657-3c2b-4497-a5d0-78568f875143.jpg)
