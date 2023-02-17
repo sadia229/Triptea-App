@@ -278,7 +278,7 @@ class _ProfilePageState extends State<ProfilePage> {
   }
 
   void showDatedialog() {
-    Widget okButton = FlatButton(
+    Widget okButton = ElevatedButton(
       child: Container(
         width: 80,
         height: 40,

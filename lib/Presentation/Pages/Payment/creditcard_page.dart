@@ -150,7 +150,7 @@ class _CreditCardPageState extends State<CreditCardPage> {
   }
 
   void showDatedialog() {
-    Widget okButton = FlatButton(
+    Widget okButton = ElevatedButton(
       child: Container(
         width: 80,
         height: 40,
